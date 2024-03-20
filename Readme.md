@@ -19,4 +19,3 @@ A lo largo de mis estudios, he realizado varios juegos simples que están public
 ### Metas y Ambiciones:
 Espero algún día poder desarrollar una variedad de juegos de todo tipo y colaborar con grandes empresas, aparte de construir mi propia empresa. Mis objetivos incluyen aprender lo más posible de la universidad, reforzar mis conocimientos y ampliar mis habilidades a través de cursos adicionales.
 
->Este “about me” te presenta como un estudiante apasionado con una amplia gama de habilidades y ambiciones en el mundo del desarrollo de software y los videojuegos. ¡Espero que te sea útil!
